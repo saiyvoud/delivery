@@ -1,0 +1,9 @@
+const String img1 = "images/img1.jpg";
+const String img2 = "images/img2.jpg";
+const String img3 = "images/img3.jpg";
+const String img4 = "images/img4.jpg";
+const String apple = "images/apple.jpg";
+const String orange = "images/oranges.jpg";
+const String pine_apple = "images/pine-apple.jpg";
+const String map = "images/map.jpg";
+const String cabbage = "images/cabbage.jpg";

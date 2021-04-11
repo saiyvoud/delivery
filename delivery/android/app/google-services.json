@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779021208252",
+    "project_id": "v-care-shopping",
+    "storage_bucket": "v-care-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779021208252:android:672992a88ec6e91693deb9",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779021208252-6la7of1e2seshtbhg427kjirmgn7ekjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAESfsMio59gL7Z9dFRfg2I3tWIzMjghQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779021208252-6la7of1e2seshtbhg427kjirmgn7ekjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

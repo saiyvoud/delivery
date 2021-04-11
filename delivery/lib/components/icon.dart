@@ -1,0 +1,16 @@
+const String cart = "images/icons/cart.svg";
+const String cart1 = "images/icons/cart1.svg";
+const String user = "images/icons/user.svg";
+const String user1 = "images/icons/user1.svg";
+const String home = "images/icons/home.svg";
+const String home1 = "images/icons/home1.svg";
+const String bell = "images/icons/bell.svg";
+const String bell1 = "images/icons/bell1.svg";
+const String location = "images/icons/location.svg";
+const String callcenter = "images/icons/customer-service.svg";
+const String offer = "images/icons/offer.svg";
+const String logout = "images/icons/logout.svg";
+const String language = "images/icons/translation.svg";
+const String message = "images/icons/messenger.svg";
+const String camera = "images/icons/camera.svg";
+const String truck = "images/icons/truck.svg";
